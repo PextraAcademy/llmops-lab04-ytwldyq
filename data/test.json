@@ -1,0 +1,8 @@
+[
+  {"text": "Requests become slow when many users connect.", "label": "performance"},
+  {"text": "A valid user is rejected by the login endpoint.", "label": "authentication"},
+  {"text": "Queries fail because the database pool is full.", "label": "database"},
+  {"text": "The deployed service cannot connect to its cache.", "label": "networking"},
+  {"text": "The application crashes while starting the new release.", "label": "deployment"},
+  {"text": "The application uses the wrong configured port.", "label": "configuration"}
+]

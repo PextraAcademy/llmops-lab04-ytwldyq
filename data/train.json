@@ -1,0 +1,8 @@
+[
+  {"text": "The API returns HTTP 503 errors during heavy traffic.", "label": "performance"},
+  {"text": "Users cannot log in after their passwords are reset.", "label": "authentication"},
+  {"text": "Database connections are exhausted during batch processing.", "label": "database"},
+  {"text": "The service cannot reach the payment provider.", "label": "networking"},
+  {"text": "The new release fails during container startup.", "label": "deployment"},
+  {"text": "The service ignores the configured request timeout.", "label": "configuration"}
+]
